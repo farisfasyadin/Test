@@ -197,14 +197,14 @@
 }
 </style>
   <div class="button-center">
-  <a class="button" href="/login" >Booking Hotel</a>
+  <a class="button" href="/login" >Booking kimcil</a>
   </div>
   <br>
   <br>
   <br>
   <br>
   <br>
-<p> &copy; BasahProduction </p>
+<p> &copy; crohhAH </p>
 </body>
 
 </html>
