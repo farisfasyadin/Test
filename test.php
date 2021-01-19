@@ -180,7 +180,7 @@
     <br>
     <br>
     <h1 style="text-align:center; color:#717171; font-family:Segoe UI">About Us</h1>
-    <p style="text-align:center; color:#717171; font-family:Segoe UI; font-size: 120%" > Kami menyediakan layanan booking hotel termurah <br> kita juga telah bekerja sama dengan banyak hotel berkualitas <br> dari seluruh dunia </p>
+    <p style="text-align:center; color:#717171; font-family:Segoe UI; font-size: 120%" > Kami menyediakan layanan KIMCIL DI SBY  <br> kita juga telah bekerja sama dengan banyak hotel berkualitas <br> dari seluruh dunia </p>
   </div>
   <style>
 .button {
