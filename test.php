@@ -1,6 +1,6 @@
 <!DOCTYPE html>
     <head>
-     <title> KOTA1</title>
+     <title> KOTA2</title>
     </head>
 
   </html>
