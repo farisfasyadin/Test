@@ -1,6 +1,6 @@
 <!DOCTYPE html>
     <head>
-     <title> FARIS JANCOK</title>
+     <title> HOTEL BINTANG 1</title>
     </head>
 
   </html>
