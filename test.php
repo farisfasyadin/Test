@@ -1,6 +1,6 @@
 <!DOCTYPE html>
     <head>
-     <title> HOTEL </title>
+     <title> HOTELCOK </title>
     </head>
 
   </html>
